@@ -1,2 +1,2 @@
 # Data-Science-1
-data analysis of consumption of energy in india
+data analysis of consumption of states in india
